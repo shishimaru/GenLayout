@@ -8,7 +8,7 @@ Trains a Variational Autoencoder (VAE) with datasets produced by
 [CyberAgent/Crello](https://huggingface.co/datasets/cyberagent/crello) and
 reconstructs layouts from sampled codes of the latent space.
 
-<a href="https://colab.research.google.com/drive/15js7wl86pVjEcJhWR7M-n4YRI-R94JhJ?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/shishimaru/GenLayout/blob/main/LayoutVAE/LayoutVAE_with_Crello.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 Click the badge above to run the LayoutVAE in Google Colab.
 
